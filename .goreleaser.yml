@@ -1,4 +1,4 @@
-builds:
+Version 3, builds:
   - skip: true
 checksum:
   name_template: '{{ .ProjectName }}_sha256_checksums.txt'
