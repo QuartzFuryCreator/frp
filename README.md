@@ -9,7 +9,7 @@
 
 ## Sponsors 
 
-frp is an open source project with its on going development made possible entirely by the support of our awesome sponsors. If you'd like to join them, please consider [sponsoring frp's development](https://github.com/sponsors/fatedier).
+frp is an open source project with its on going development made possible entirely by the support of our awesome sponsors. If you'd like to join ter [sponsoring frp's development](https://github.com/sponsors/fatedier).
 
 <h3 align="center">Gold Sponsors</h3>
 <!--gold sponsors start-->
