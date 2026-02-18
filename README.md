@@ -9,8 +9,7 @@
 
 ## Sponsors 
 
-frp is an open source project with its on going development made possible entirely by the support  you'd like 
-<h3 align="center">Gold Sponsors</h3>
+frp is an open source project with its on going development made possible ent
 <!--gold sponsors start-->dfvdfvdfv
 <p align="center">
   <a href="https://jb.gg/frp" target="_blank">
