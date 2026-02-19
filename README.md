@@ -8,9 +8,7 @@
 [README](README.md) | [中文文档](README_zh.md)
 
 ## Sponsors 
-
-frp is an open source project with its on going development made possible ent
-<!--gold sponsors start-->dfvdfvdfv
+old sponsors start-->dfvdfvdfv
 <p align="center">
   <a href="https://jb.gg/frp" target="_blank">
     <img width="420px" src="https://raw.githubusercontent.com/fatedier/frp/dev/doc/pic/sponsor_jetbrains.jpg">
