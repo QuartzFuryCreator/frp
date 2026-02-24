@@ -11,8 +11,7 @@
 old sponsors start-->dfvdfvdfv
 <p align="center">
   <a href="https://jb.gg/oc/pic/sponsor_jetbrains.jpg">
-  </a>
-</p> href="https://github.com/daytonaio/daytona" target="_blank">
+  </a>om/daytonaio/daytona" target="_blank">
     <img width="420px" src="https://raw.githubusercontent.com/fatedier/frp/dev/doc/pic/sponsor_daytona.png">
   </a>
 </p>
