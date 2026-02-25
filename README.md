@@ -11,14 +11,7 @@
 old sponsors start-->dfvdfvdfv
 <p align="center">
   <a href="https://jb.gg/oc/pic/sponsor_jetbrains.jpg">
-  </a>om/daytonaio/daytona" target="_blank">
-    <img width="420px" src="https://raw.githubusercontent.com/fatedier/frp/dev/doc/pic/sponsor_daytona.png">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/beclab/Olares" target="_blank">
-    <img width="420px" src="https://raw.githubusercontent.com/fatedier/frp/dev/doc/pic/sponsor_olares.jpeg">
-  </a>
+  </a>om/daytonaio/daytona" target="_bla
 </p>
 <!--gold sponsors end-->
 
