@@ -13,11 +13,6 @@ frp also offers a P2P connect mode.
 
 <!-- vim-markdown-toc GFM -->
 
-* [Development Status](#development-status)
-    * [About V2](#about-v2)
-* [Architecture](#architecture)
-* [Example Usage](#example-usage)
-    * [Access your computer in a LAN network via SSH](#access-your-computer-in-a-lan-network-via-ssh)
     * [Multiple SSH services sharing the same port](#multiple-ssh-services-sharing-the-same-port)
     * [Accessing Internal Web Services with Custom Domains in LAN](#accessing-internal-web-services-with-custom-domains-in-lan)
     * [Forward DNS query requests](#forward-dns-query-requests)
